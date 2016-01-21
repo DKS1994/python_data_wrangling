@@ -21,7 +21,7 @@ style.use('dark_background')
 import re
 import urllib
 
-path = "X:/sentdex-MachineLearning/intraQuarter"
+path = "X:/<path-to-your-file>/intraQuarter"
 
 def Key_Stats(gather="Total Debt/Equity (mrq)"):
     statspath=path+'/_KeyStats'
