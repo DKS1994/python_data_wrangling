@@ -5,6 +5,8 @@ In this example I used the Yahoo Finance webpage for each stock collected over 1
 
 There are 2 versions of python script. "wrangling_all_features" and "wrangling_two_features". The later is made for easy understanding of concepts used to import,clean and export data to a csv file. After understanding concept from the later script the former will be easier to understand.The inputs for our script will be semi-structured webpage and the output will be a csv file. We move further forward and label our stocks either "underperforming" or "outperform". These labeled data can now further be used for machine learning concepts.
 
+To label data we compare our datasets from S&P 500. The data for S&P 500 can be obtained from Quandl.com for S&P500 for year 2003 - 2013. The data for S&P 500 should be downloaded in csv.
+
 
 
 Any doubts or questions can be forwarded to dushyant.shukla94@gmail.com.
